@@ -71,27 +71,6 @@ p {
     margin: 0 auto;
 }
 
-.navBar {
-    display: flex;
-    width:100%;
-    justify-content: flex-start;
-    align-items: flex-end;
-    margin: 20px 0 39px 0;
-}
-
-nav a {
-    color:black;
-    text-decoration:none;
-    padding: 0 50px;
-    font-size: 70%;
-}
-
-nav{
-    margin: 0 auto;
-    display:flex;
-    justify-content: space-evenly;
-}
-
 .top-content {
     display: flex;
     flex-wrap: wrap;

@@ -134,10 +134,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: center;
-    /* background:black; */
 }
-
-
 
 .box:nth-child(1) {
     background:teal;

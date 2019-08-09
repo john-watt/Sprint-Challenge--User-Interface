@@ -96,6 +96,51 @@ nav{
     padding-bottom: 20px;
 }
 
+.topInfo {
+    align-content: center;
+    padding: 20px;
+    border-bottom: 1px dashed black;
+}
+
+
+.middleInfo1, .middleInfo2{
+    display:flex;
+    justify-content: space-around;    
+    width: 104.2%;
+    padding: 31px 15px;
+}
+
+
+
+
+.strategyText, .howText, .placesText, .collaborationText {
+    margin-top: 10px;
+    border-bottom: 1px dashed black;
+    width: 92%;   
+}
+
+.button {
+    display:block;
+    margin: 20px 0;
+    height:40px;
+    width: 130px;
+    border-radius: 10px;
+    border: 1px solid black;
+    background:white;
+    font-size: 106%;
+    padding: 8px auto;;
+}
+
+.bottomInfo {
+    align-content: center;
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top:20px;
+    padding-bottom: 30px;
+}
+
+
 
 footer {
     width: 100%;
